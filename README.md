@@ -2,9 +2,9 @@
 ## CSE-687 Object Oriented Design 
 
 ### Contributors
-- Harrison Chen
+
 - Fang Wang
-- Anthony Nguyen
+
 
 ### Purpose
 1. A test harness allows developer to define and affregate many small tests, each of which runs with exception handling and results logging.
@@ -16,15 +16,3 @@
 	- Pass or Fail, details, plus timestamps.
 5. The test harness provides linking multiple tests in sequence.
 6. The test harness provides remote operation capability.
-
-### Phases
-
-#### Phase 1
-Architechture and Design.
-
-#### Phase 2
-Simple Test Harness Implementation.
-
-#### Phase 3
-
-#### Phase 4
